@@ -55,24 +55,24 @@ const rakesh: Developer = {
     location: "India 🇮🇳",
     age: 22,
     passions: [
-        "Building Scalable Applications 🚀",
-        "Creating Seamless UX ✨",
-        "Continuous Learning 📚",
-        "Open Source Contribution 🌍"
+        "Building Scalable Applications ",
+        "Creating Seamless UX ",
+        "Continuous Learning ",
+        "Open Source Contribution "
     ],
     currentMission: "Mastering the art of modern web development",
     techStack: {
-        frontend: ["React ⚛️", "JavaScript 🟨", "HTML5 & CSS3 🎨"],
-        backend: ["Node.js 🟢", "Express.js ⚡"],
-        database: ["MongoDB 🍃"],
-        tools: ["Docker 🐳", "Git & GitHub 🔧", "VS Code 💙"]
+        frontend: ["React ", "JavaScript ", "HTML5 & CSS3 "],
+        backend: ["Node.js ", "Express.js ⚡"],
+        database: ["MongoDB"],
+        tools: ["Docker", "Git & GitHub", "VS Code"]
     }
 };
 
 // Life Philosophy
-console.log("🎯 Keep building, keep learning, keep evolving");
+console.log("Keep building, keep learning, keep evolving");
 // Mission Statement  
-console.log("💡 Turning caffeine into code, ideas into reality");
+console.log("Turning caffeine into code, ideas into reality");
 ```
 
 <br clear="right"/>
@@ -104,7 +104,7 @@ console.log("💡 Turning caffeine into code, ideas into reality");
 <tr>
 <td width="50%" align="center">
 
-### 🎨 Frontend Mastery
+### Frontend Mastery
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap,sass,figma&perline=4" />
@@ -158,7 +158,7 @@ Linux: Command-line proficiency
 </td>
 <td width="50%" align="center">
 
-### 🚀 Currently Exploring
+###  Currently Exploring
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,nextjs,redux,webpack,babel,graphql,prisma,postgres&perline=4" />
@@ -231,27 +231,27 @@ GraphQL: Modern API queries
 %%{init: {'theme':'dark', 'themeVariables': { 'primaryColor':'#00D9FF','primaryTextColor':'#fff','primaryBorderColor':'#FFD700','lineColor':'#00D9FF','secondaryColor':'#1a1a2e','tertiaryColor':'#0D1117'}}}%%
 
 graph TB
-    Start([🎯 Current State]) --> A[💻 JavaScript Deep Dive]
-    Start --> B[⚛️ React Mastery]
-    Start --> C[🗄️ Backend Development]
+    Start([ Current State]) --> A[💻 JavaScript Deep Dive]
+    Start --> B[React Mastery]
+    Start --> C[Backend Development]
     
-    A --> D[🔧 Advanced Concepts]
-    B --> E[🎨 Component Architecture]
-    C --> F[📊 Database Optimization]
+    A --> D[ Advanced Concepts]
+    B --> E[ Component Architecture]
+    C --> F[Database Optimization]
     
-    D --> G[🚀 Full Stack Expertise]
+    D --> G[ Full Stack Expertise]
     E --> G
     F --> G
     
-    G --> H[🌟 Production-Ready Apps]
-    G --> I[🏗️ Scalable Solutions]
-    G --> J[✨ Beautiful UX]
+    G --> H[ Production-Ready Apps]
+    G --> I[ Scalable Solutions]
+    G --> J[ Beautiful UX]
     
-    H --> K([💎 Senior Developer])
+    H --> K([ Senior Developer])
     I --> K
     J --> K
     
-    K --> L([🌍 Tech Industry Impact])
+    K --> L([ Tech Industry Impact])
     
     style Start fill:#00D9FF,stroke:#FFD700,stroke-width:3px,color:#000
     style K fill:#FFD700,stroke:#00D9FF,stroke-width:3px,color:#000
