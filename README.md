@@ -1,276 +1,84 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=RAKESH%20SHIL&fontSize=90&color=0:667eea,100:764ba2&stroke=FFFFFF&strokeWidth=2&fontColor=FFFFFF&animation=twinkling&desc=Full%20Stack%20Developer%20|%20JavaScript%20Specialist%20|%20React%20Expert&descSize=25&descAlignY=65"/>
+# 👨‍💻 Hi there, I'm [Your Name]
 
-</div>
+### Computer Science Student | Frontend Developer | Tech Enthusiast
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time;Learning+%7C+Creating+%7C+Growing;From+India+with+%F0%9F%92%99" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&width=800&lines=Building+scalable+web+applications;Architecting+modern+digital+solutions;Transforming+concepts+into+code;Passionate+about+clean+architecture" alt="Typing SVG" /></a>
-</p>
-
-<div align="center">
-
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/-Portfolio-667eea?style=for-the-badge&logo=browser&logoColor=white)](https://rakeshsenpai.github.io/My-Official-Portfolio/)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/rakesh-shil-339132335/)
-[![Twitter](https://custom-icon-badges.demolab.com/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/home)
-[![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rakesh.senpai/)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-<br/>
-
-## OVERVIEW
-
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=RakeshSenpai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&custom_title=Performance%20Metrics"/>
+## 🚀 About Me
 
 ```javascript
-class DeveloperProfile {
-  constructor() {
-    this.name = "Rakesh Shil";
-    this.age = 22;
-    this.location = "India";
-    this.role = "Full Stack Developer";
-    
-    this.expertise = {
-      frontend: ["JavaScript", "React", "HTML5", "CSS3"],
-      backend: ["Node.js", "Express.js"],
-      database: ["MongoDB"],
-      tools: ["Docker", "Git", "VS Code"]
-    };
-    
-    this.principles = [
-      "Write clean, maintainable code",
-      "Build scalable architectures",
-      "Embrace continuous learning",
-      "Focus on user experience"
-    ];
-  }
-  
-  getCurrentFocus() {
-    return "Mastering modern JavaScript and React ecosystem";
-  }
-  
-  getAvailability() {
-    return "Open for collaboration and new opportunities";
-  }
-}
-
-const developer = new DeveloperProfile();
-console.log(developer.getCurrentFocus());
+const developer = {
+    location: "India 🇮🇳",
+    currentRole: "Computer Science Student & Frontend Developer",
+    level: "Beginner → Intermediate",
+    learning: ["Backend Development", "DBMS", "Full-Stack Architecture"],
+    interests: ["Web Development", "EdTech", "Startups", "Financial Literacy"],
+    goal: "Build real-world tech products that make a difference",
+    motto: "One project at a time, one concept at a time"
+};
 ```
 
-<br clear="right"/>
+I'm passionate about creating **clean, functional web applications** and exploring how technology can solve real-world problems, especially in **education and business**. Currently on a journey to become a **full-stack developer** who builds products that matter.
 
 ---
 
-<br/>
-
-## TECHNICAL EXPERTISE
+## 🛠️ Skills & Technologies
 
 <div align="center">
 
-### Frontend Technologies
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-<br>JavaScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-<br>React
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-<br>HTML5
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-<br>CSS3
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-<br>Tailwind
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-<br>Bootstrap
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-<br>Sass
-</td>
-</tr>
-</table>
-
-### Backend & Database
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-<br>Node.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-<br>Express
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-<br>MongoDB
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-<br>Postman
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="NPM" />
-<br>NPM
-</td>
-</tr>
-</table>
-
-### Development Tools
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-<br>Docker
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-<br>Git
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
-<br>GitHub
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-<br>VS Code
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-<br>Linux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
-<br>Bash
-</td>
-</tr>
-</table>
-
-### Currently Exploring
-
-<table>
-<tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
-<br>Redux
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" />
-<br>Webpack
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-<br>GraphQL
-</td>
-</tr>
-</table>
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
+
+**Core JavaScript Skills:**
+- ✅ DOM Manipulation & Event Handling
+- ✅ Promises & Async/Await
+- ✅ ES6+ Features (Destructuring, Spread/Rest, Arrow Functions)
+- ✅ Date & Time Handling
+- ✅ Modern JavaScript Fundamentals
 
 ---
 
-<br/>
-
-## GITHUB ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RakeshSenpai&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true&custom_title=GitHub%20Statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=RakeshSenpai&theme=github-dark-blue&hide_border=true&background=0d1117&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideLabels=764ba2&dates=c9d1d9&currStreakNum=c9d1d9" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshSenpai&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9&langs_count=10&hide=jupyter%20notebook" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=RakeshSenpai&bg_color=0d1117&color=667eea&line=764ba2&point=c9d1d9&area=true&hide_border=true&custom_title=Contribution%20Graph&height=280" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=RakeshSenpai&theme=algolia&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10)
-
-</div>
-
----
-
-<br/>
-
-## DEVELOPMENT PHILOSOPHY
+## 🌱 Currently Learning / Exploring
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%">
 
-### Code Quality
-```yaml
-Principles:
-  - Clean Architecture
-  - SOLID Principles
-  - DRY & KISS
-  - Code Reviews
-  - Documentation
-  - Testing
-```
+### 📚 Technical Skills
+- 🔄 **Deep JavaScript revision** for solid foundations
+- 🗄️ **DBMS fundamentals** & database design
+- 🌐 **Backend development** (MERN vs PERN)
+- 🔧 Data structures & algorithms
 
 </td>
-<td width="33%" valign="top">
+<td width="50%">
 
-### Current Focus
-```yaml
-Learning:
-  - Advanced JavaScript
-  - React Patterns
-  - System Design
-  - Performance Optimization
-  - Best Practices
-```
-
-</td>
-<td width="33%" valign="top">
-
-### Goals 2024
-```yaml
-Objectives:
-  - Build Production Apps
-  - Open Source Contribution
-  - Master Full Stack
-  - Technical Writing
-  - Community Engagement
-```
+### 🎯 Interest Areas
+- 🤖 **AI in EdTech** applications
+- 💼 **Startup ecosystems** & business models
+- 💰 **Financial literacy** & tech business
+- 🚀 Building **scalable products**
 
 </td>
 </tr>
@@ -278,164 +86,88 @@ Objectives:
 
 ---
 
-<br/>
-
-## DEVELOPMENT ROADMAP
+## 💼 Projects
 
 <div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **🎓 ClassRank** | Attendance tracking & student ranking system | JavaScript, HTML, CSS |
+| **⚡ JS Mini Projects** | Practice projects for core concepts | Vanilla JavaScript |
+| **📖 EdTech Experiments** | Educational technology explorations | Web Technologies |
+| **🏫 College Projects** | Academic applications & assignments | Various |
+
+</div>
+
+> 💡 **Note:** All projects are works in progress. I'm constantly learning and improving them as I gain new knowledge.
+
+---
+
+## 🎯 Goals & Roadmap
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#667eea','primaryTextColor':'#fff','primaryBorderColor':'#764ba2','lineColor':'#667eea','secondaryColor':'#764ba2','tertiaryColor':'#0d1117','fontSize':'16px'}}}%%
-
 graph LR
-    A[JavaScript Fundamentals] --> B[React Development]
-    B --> C[State Management]
-    C --> D[Backend Integration]
-    D --> E[Full Stack Applications]
-    E --> F[Production Deployment]
-    F --> G[Scalable Architecture]
-    
-    A --> H[ES6+ Features]
-    H --> I[Async Programming]
-    I --> D
-    
-    B --> J[Component Design]
-    J --> K[Performance Optimization]
-    K --> E
-    
-    style A fill:#667eea,stroke:#764ba2,stroke-width:2px
-    style E fill:#764ba2,stroke:#667eea,stroke-width:2px
-    style G fill:#667eea,stroke:#764ba2,stroke-width:3px
+    A[Current: Frontend Dev] --> B[Master JavaScript]
+    B --> C[Learn Backend]
+    C --> D[Full-Stack Developer]
+    D --> E[Build Real Products]
+    E --> F[EdTech Startup]
 ```
 
-</div>
+### 📍 Short-term Goals
+- ✨ Master JavaScript fundamentals completely
+- 🔨 Build a complete full-stack application
+- 🤝 Contribute to open-source projects
+- 📈 Strengthen DSA knowledge
+
+### 🚀 Long-term Vision
+- 💪 Become a strong full-stack developer
+- 🏗️ Build real-world tech products that solve meaningful problems
+- 🎓 Create impactful EdTech solutions
+- 💼 Understand startup ecosystems and build scalable businesses
 
 ---
 
-<br/>
-
-## PROFESSIONAL ENGAGEMENT
+## 📊 GitHub Stats
 
 <div align="center">
 
-| Area | Description | Status |
-|------|-------------|--------|
-| **Freelancing** | Available for web development projects | Open |
-| **Collaboration** | Open source and team projects | Active |
-| **Mentoring** | Guiding junior developers | Available |
-| **Learning** | Continuous skill development | Ongoing |
-| **Networking** | Building professional connections | Active |
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
 
----
-
-<br/>
-
-## CONTACT & COLLABORATION
-
 <div align="center">
 
-### Professional Network
-
-<a href="https://rakeshsenpai.github.io/My-Official-Portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-667eea?style=for-the-badge&logoColor=white" height="35"/>
-</a>
-<a href="https://www.linkedin.com/in/rakesh-shil-339132335/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-</a>
-<a href="https://github.com/RakeshSenpai">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-</a>
-
-### Social Presence
-
-<a href="https://x.com/home">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="35"/>
-</a>
-<a href="https://www.instagram.com/rakesh.senpai/">
-  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35"/>
-</a>
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-**Open For**
-- Freelance Projects
-- Full-time Opportunities
-- Collaborative Development
-- Technical Consulting
-
-</td>
-<td align="center" width="50%">
-
-**Interested In**
-- Modern Web Technologies
-- Scalable Architecture
-- Performance Optimization
-- User Experience Design
-
-</td>
-</tr>
-</table>
-
----
-
-<br/>
-
-## CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RakeshSenpai/RakeshSenpai/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RakeshSenpai/RakeshSenpai/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RakeshSenpai/RakeshSenpai/output/github-contribution-grid-snake.svg">
-</picture>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-<br/>
+## 📫 Let's Connect!
 
 <div align="center">
 
-## PROFILE METRICS
+I'm always open to connecting with fellow developers, learning from others, and collaborating on interesting projects.
 
-![](https://komarev.com/ghpvc/?username=RakeshSenpai&label=Profile%20Views&color=667eea&style=for-the-badge)
-![](https://img.shields.io/github/followers/RakeshSenpai?label=Followers&style=for-the-badge&color=764ba2)
-![](https://img.shields.io/github/stars/RakeshSenpai?label=Stars&style=for-the-badge&color=667eea)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
 ---
 
-<br/>
-
 <div align="center">
 
-### Development Wisdom
+### 💭 Quote I Live By
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)
+*"Building one project at a time, learning something new every day."*
 
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square)
 
-<br/>
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:667eea,100:764ba2&section=footer"/>
-
-**Crafted with precision and passion**
-
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
-
-**Rakesh Shil | Full Stack Developer | 2024**
+⭐️ From [yourusername](https://github.com/yourusername)
 
 </div>
