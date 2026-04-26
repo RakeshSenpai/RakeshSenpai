@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm [Your Name]
+# 👋 Hey, I'm Rakesh
 
 **CS Student & Frontend Developer from India 🇮🇳**
 
@@ -47,6 +47,6 @@
 
 💬 Open to collaborations and always happy to chat about tech!
 
-![Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=RakeshSenpai&color=blue&style=flat-square)
 
 </div>
