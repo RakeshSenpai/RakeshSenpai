@@ -1,72 +1,84 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=180&section=header&text=Hey,%20I'm%20Rakesh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20%26%20Frontend%20Developer%20from%20India&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=200&section=header&text=Rakesh%20Shil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20India%20%F0%9F%87%AE%F0%9F%87%B3&descAlignY=58&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+with+JavaScript+%E2%9A%A1;Learning+Full-Stack+Development+%F0%9F%9A%80;Now+Exploring+C%2B%2B+%26+Flutter+%F0%9F%8E%AF)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/rakesh-shil-339132335/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shlrakesh04@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=RakeshSenpai&color=6366F1&style=for-the-badge&label=VISITORS"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-shil-339132335/)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlrakesh04@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=RakeshSenpai&color=3B82F6&style=for-the-badge&label=VIEWS)](https://github.com/RakeshSenpai)
+<br/><br/>
 
-</div>
-
-<br/>
-
-## 🛠️ Skill Progress
-
-<div align="center">
-
-**JavaScript**
-![](https://progress-bar.dev/80/?title=&width=400&color=3B82F6)
-
-**HTML5**
-![](https://progress-bar.dev/90/?title=&width=400&color=E34F26)
-
-**CSS3**
-![](https://progress-bar.dev/85/?title=&width=400&color=1572B6)
-
-**Tailwind CSS**
-![](https://progress-bar.dev/75/?title=&width=400&color=38B2AC)
-
-**Bootstrap**
-![](https://progress-bar.dev/70/?title=&width=400&color=7952B3)
-
-</div>
-
-### 🌱 Currently Learning
-
-<div align="center">
-
-**C++**
-![](https://progress-bar.dev/30/?title=&width=400&color=00599C)
-
-**Dart (Flutter)**
-![](https://progress-bar.dev/25/?title=&width=400&color=0175C2)
+> *"Turning ideas into interfaces, one commit at a time."*
 
 </div>
 
 <br/>
 
-## 📊 GitHub Stats
+## ⚡ What I'm Building With
+
+<table align="center">
+<tr>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br/>
+<b>JavaScript</b><br/>
+<img src="https://progress-bar.dev/80?width=140&color=F7DF1E"/>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br/>
+<b>React</b><br/>
+<img src="https://progress-bar.dev/55?width=140&color=61DAFB"/>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=dart" width="55"/><br/>
+<b>Dart / Flutter</b><br/>
+<img src="https://progress-bar.dev/35?width=140&color=0175C2"/>
+</td>
+<td align="center" width="200">
+<img src="https://skillicons.dev/icons?i=cpp" width="55"/><br/>
+<b>C++</b><br/>
+<img src="https://progress-bar.dev/30?width=140&color=00599C"/>
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Bars reflect where I am <i>right now</i> — climbing every week 📈</sub>
+</div>
+
+<br/>
+
+## 🧰 Also In My Toolkit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RakeshSenpai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshSenpai&theme=radical&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6" width="49%"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,git,vscode" />
 
 </div>
 
 <br/>
 
-## 📫 Let's Connect
+## 📊 GitHub Activity
 
 <div align="center">
 
-💬 **Open to collaborations — always happy to chat about tech!**
+<img src="https://github-readme-stats.vercel.app/api?username=RakeshSenpai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=3B82F6&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshSenpai&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=3B82F6&currStreakLabel=8B5CF6" width="48%"/>
 
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rakesh-shil-339132335/)
-[![Email](https://img.shields.io/badge/-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shlrakesh04@gmail.com)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RakeshSenpai&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=3B82F6&point=ffffff&hide_border=true" width="97%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=100&section=footer" width="100%"/>
+</div>
+
+<br/>
+
+## 🤝 Let's Build Something
+
+<div align="center">
+
+I'm always down to talk about web dev, app dev, or your next big idea.
+
+<a href="https://www.linkedin.com/in/rakesh-shil-339132335/"><img src="https://img.shields.io/badge/-Message%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:shlrakesh04@gmail.com"><img src="https://img.shields.io/badge/-Drop%20me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:3B82F6&height=120&section=footer" width="100%"/>
 
 </div>
